@@ -1,3 +1,3 @@
 ROCKEATSEAT PROJECT
 
-We built a website that
+We built a website with HTML, CSS AND JS
